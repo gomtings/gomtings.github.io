@@ -1,9 +1,9 @@
 ---
-title: Project tap
+title: Sample Post
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
-description: 프로젝트를 기록들을 정리 합니다.
-  
+post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+description: A sample post to show how the content will look and how will different
+  headlines, quotes and codes will be represented.
 tags:
 - sample
 - post
