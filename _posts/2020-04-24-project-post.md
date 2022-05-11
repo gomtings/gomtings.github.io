@@ -1,5 +1,5 @@
 ---
-title: Sample Post
+title: project Post
 layout: post
 post-image: "/assets/images/SamplePost.png"
 description: 그동안의 프로젝트 를 기록합니다.
