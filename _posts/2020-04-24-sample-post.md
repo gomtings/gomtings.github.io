@@ -1,9 +1,9 @@
 ---
-title: Project
+title: Sample Post
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: 그동안의 프로젝트를 기록합니다.
-  
+post-image: "/assets/images/SamplePost.png"
+description: 그동안의 프로젝트 를 기록합니다.
+
 tags:
 - sample
 - post
