@@ -16,11 +16,13 @@ tags:
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 ---
-1. 2013 국제로봇컨테스트 전국대학생 로봇스포츠 경진대회 [LEGO EV3,NXT , LABVIEW]
+1. 2013 국제로봇컨테스트 전국대학생 로봇스포츠 경진대회
+* 사용툴(플랫폼) 및 언어 -> LEGO EV3,NXT,LABVIEW
 * 처음으로 개발해본 로봇으로 씨름 로봇 입니다.
   LEGO EV3,NXT 를 이용하여 하드웨어 빌드를 진행하였으며 LABVIEW 를 이용하여 프로그래밍하였습니다.
 
-2. 스마트 로봇 경진대회 [LEGO EV3,NXT , LABVIEW]
+2. 스마트 로봇 경진대회
+* 사용툴(플랫폼) 및 언어 -> LEGO EV3,NXT,LABVIEW
 * 공의 색상별 각 색상의 바구니에 담는 로봇 입니다.
   LEGO EV3,NXT 를 이용하여 하드웨어 빌드를 진행하였으며 LABVIEW 를 이용하여 프로그래밍하였습니다.
 
