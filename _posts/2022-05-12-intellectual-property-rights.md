@@ -24,13 +24,13 @@ tags:
 <pre>
   출원번호 : 1020180008193
 </pre>
-<img src="./assets/images/1020180008193.PNG", height="100x", width="100px">
+![Test Image](/assets/images/1020180008193.PNG)
 
 **위험 상황 알림을 수행하는 휠체어 제어 시스템**
 <pre>
   출원번호 : 1020180157882
 </pre>
-<img src="./assets/images/1020180157882.PNG", height="100x", width="100px">
+![Test Image](/assets/images/1020180157882.PNG)
 
 **약자들의 안전을 위한 자동경보 호출 시스템**
 <pre>
@@ -42,7 +42,7 @@ tags:
   출원번호 : 1020200012276
   등록번호 : 1023405960000
 </pre>
-<img src="./assets/images/1020200012276.PNG", height="100x", width="100px">
+![Test Image](/assets/images/1020200012276.PNG)
 
 # Trademark and design rights
 
@@ -52,4 +52,4 @@ tags:
 <pre>
  출원번호 : 4020200018450
 </pre>
-<img src="./assets/images/4020200018450.PNG", height="100x", width="100px">
+![Test Image](/assets/images/4020200018450.PNG)
