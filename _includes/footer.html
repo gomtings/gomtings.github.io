@@ -31,12 +31,12 @@
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
-                    <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
+                    <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
                 </li>
                 {% endunless %}
                 {% endfor %}
                 <li>
-                    <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
+                    <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
                 </li>
             </div>
 
@@ -52,6 +52,6 @@
         </div>
     </div>
     <div class="has-background-black has-text-centered has-text-white" id="credits">
-        <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} |<!-- <a href="https://github.com/gomtings" target="_blank" rel="noopener noreferrer">leesnagwoo</a>--> - A Theme made with <i class="fas fa-heart has-text-danger"></i> by <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">TheDevsLot</a> Powered by <a href="https://gomtings.github.io/" target="_blank">snagwoo</a>
+        <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} |<!-- <a href="https://github.com/gomtings" target="_blank" rel="noopener noreferrer">leesnagwoo</a>--> Theme made with <i class="fas fa-heart has-text-danger"></i> by <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">TheDevsLot</a> Powered by <a href="https://gomtings.github.io/#" target="_blank">sangwoo</a>
     </div>
 </footer>
