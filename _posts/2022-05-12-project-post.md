@@ -35,6 +35,8 @@ tags:
 
 **4. 2016 WRO(월드로봇올림피아드) [My Rio,LABVIEW]**
 <pre>
+* 대회 : WRO KOREA(국가대표 선발전) , WRO INDIA(국가대표)
+
 *  볼링 로봇으로 상자에 담긴 공을 들고 이동하여 볼링 핀을 쓸어 트리는 로봇 입니다. 
    TETRIX 프레임 을 활용하여 하드웨어를 빌드 하였으며 My Rio 컨트롤러 를 사용하였습니다.
    펌웨어는 LABVIEW 를 이용하여 프로그래밍하였습니다.
@@ -42,6 +44,11 @@ tags:
 *  해오면서 가장 긴 시간동안 준비를 한 로봇으로 6개월 이상을 개발을 진행했습니다.
    중간에 국가대표 선발전을 에서 은상으로 선발전에 통과 하여 11월 국제 대회 까지 팀원들 모두가 밤샘 작업으로 완성한 로봇 입니다.
    저는 이중 하드웨어 빌드를 담당 하였으며 또한 진행 초기 테스트를 담당하였습니다.
+
+* WRO  최종 테스트 영상 
+<iframe width="560" height="315" src="https://youtu.be/oIQ24HSCXeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* WRO INDIA 경기 진행 영상
+<iframe width="560" height="315" src="https://youtu.be/gRvplET6yiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </pre>
 
 **5. 2016 스마트 로봇 경진대회 [LEGO EV3,NXT , LABVIEW]**
@@ -170,4 +177,7 @@ tags:
 * git hub 의 다운로드 업로드를 git bash 를 이용 하여 명령어로 진행을 해야 하는 불편함을 간소화 하고자
   자동으로 명령어를 작성해 주는 메크로 프로그램
 <a href="https://github.com/gomtings/project/tree/main/portfolio/win32%20api/AG(Auto_Git)">AG(Auto_Git) 다운로드</a>
+
+* WRO INDIA 경기 진행 영상
+<iframe width="560" height="315" src="https://youtu.be/ALlQ9uNuFfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </pre>
