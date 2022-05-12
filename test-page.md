@@ -1,29 +1,32 @@
 ---
-title: Test Page
+title: Career
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+### Career List
 
-[This is a link](#)
+1. 2019_08 ~ 2021_05 
+    * SW 개발 프리랜서 및 3D_print 출력 대행
 
-> This is a blockquote
+2. 2018_12 ~ 2020_01
+    * 스타트업 닥터윌 대표 
+    1. IOT 휠체어 키트 소프트웨어 개발
+    2. IOT 휠체어 키트 하드웨어 개발 및 시험 
+    3. IOT 휠체어 키트 하우징 디자인
 
-`This is code`
+3. 2020_03 ~ 2021_02 
+    * (주)메디코슨 기업부설연구소 연구원
+      1. 피부미용기 펌웨어 개발 및 테스트
+      2. 테스트 지그 SW 개발
+      3. VSWR 제어 SW 개발
+      4. 고주파 의료기 SW 개발 및 테스트
 
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+4. 2021_05 ~ 2021_07 
+    * (주)태하 기술연구소 사원
+      1. 디스펜스 펌웨어 개발 및 테스트
 
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+5. 2021_07 ~  
+    * (주)Solimatics 연구원
+      1. Environmental Monitoring System (환경 모니터링 IOT 기기 개발)
+      2. 천공기 스마트 솔루션 개발 
+      3. 천공기 솔루션 시험 시뮬레이터 개발
