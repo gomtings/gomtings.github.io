@@ -163,7 +163,7 @@ tags:
 
 **17. AG(Auto_Git) [win32 api]**
 <pre>
-<a href="https://github.com/gomtings/project/tree/main/portfolio/win32%20api/AG(Auto_Git)">
 * git hub 의 다운로드 업로드를 git bash 를 이용 하여 명령어로 진행을 해야 하는 불편함을 간소화 하고자
-  자동으로 명령어를 작성해 주는 메크로 프로그램</a>
+  자동으로 명령어를 작성해 주는 메크로 프로그램
+<a href="https://github.com/gomtings/project/tree/main/portfolio/win32%20api/AG(Auto_Git)">AG(Auto_Git) 다운로드</a>
 </pre>
