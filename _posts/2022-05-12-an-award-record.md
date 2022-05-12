@@ -1,7 +1,7 @@
 ---
 title: an award record
 layout: post
-post-image: /assets/images/How to install and use WhatATheme.png
+post-image: "/assets/images/SamplePost.png"
 description: 그동안의 수상 기록을 정리 합니다.
 tags:
 - award

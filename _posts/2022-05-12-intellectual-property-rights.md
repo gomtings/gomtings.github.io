@@ -1,7 +1,7 @@
 ---
 title: intellectual property rights
 layout: post
-post-image: "/assets/images/What is Jekyll and How to use it.png"
+post-image: "/assets/images/SamplePost.png"
 
 description: 특허 및 디자인 등 지식재산권 을 작성 합니다.
 
