@@ -159,6 +159,7 @@ tags:
 <pre>
 * 윈도우 기반 애플리케이션을 공부하기 위하여 시작한 프로젝트로
   카카오톡이 아닌 프로그램에서 사용자 입력 메시지를 자동으로 전송
+<a href="https://github.com/gomtings/project/tree/main/portfolio/win32%20api/exwinapi">카카오톡 쳇봇</a>
 </pre>
 
 **17. AG(Auto_Git) [win32 api]**
