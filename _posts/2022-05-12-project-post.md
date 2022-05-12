@@ -61,6 +61,7 @@ tags:
 *  TCP IP 통신과 cmd 명령을 활용하여 간단하게 구현을 해본 채팅 프로그램 입니다.
    cmd 명령중 강제 종료 기능 및 예약 종료 기능 을 활용하여 원격지에서 학부모가 자녀들의PC 사용 시간을
    제어 할수 있는 프로그램 입니다.
+   <a href="https://github.com/gomtings/project/tree/main/portfolio/labview/gugudan">원격 제어 프로그램 다운로드</a>
 </pre>
 
 **8. route finder [LABVIEW]**
@@ -70,6 +71,7 @@ tags:
  
  * 처음 프로그램을 외부에 배표한 첫 프로그램으로 배포 이후 실제 사용자들의 피드백을 받아서 새로운 기능을 추가하는 등
    실제 서비스 중인 프로그램 입니다.
+   <a href="https://github.com/gomtings/project/tree/main/portfolio/labview/ATC%20app">route finder 다운로드</a>
  </pre>
 
 **9. 환율 정보 프로그램 [LABVIEW]**
@@ -78,6 +80,7 @@ tags:
   포털에서 제공 하는 데이터 중 하나인 환율데이터를 활용하여
   각 국가의 현재의 환율 과 특정 날자의 활율 그리고 이것들을 조합하여 1달간의 환율 변동 추이 등을 그래프로 나타내 주는
   프로그램 입니다.
+  <a href="https://github.com/gomtings/project/tree/main/portfolio/labview/%ED%99%98%EC%9C%A8">환율 정보 프로그램 다운로드</a>
 </pre>
 
 **10. 환경 관제 시스템 [아두이노 ,C/C++]**
@@ -159,7 +162,7 @@ tags:
 <pre>
 * 윈도우 기반 애플리케이션을 공부하기 위하여 시작한 프로젝트로
   카카오톡이 아닌 프로그램에서 사용자 입력 메시지를 자동으로 전송
-<a href="https://github.com/gomtings/project/tree/main/portfolio/win32%20api/exwinapi">카카오톡 쳇봇</a>
+<a href="https://github.com/gomtings/project/tree/main/portfolio/win32%20api/exwinapi">카카오톡 쳇봇 다운로드</a>
 </pre>
 
 **17. AG(Auto_Git) [win32 api]**
