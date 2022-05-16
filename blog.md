@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Record
 layout: blog
 ---
 
