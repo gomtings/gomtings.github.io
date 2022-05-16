@@ -9,8 +9,7 @@ layout: page
 ### 2019_08 ~ 2021_05 ###
 
 ##### 프리랜서 #####
-1. SW 개발 - C,C++,JAVA,MIPS_ASM
-<a href="https://github.com/gomtings/project/tree/main/portfolio/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C">개발 기록</a>
+1. <a href="https://github.com/gomtings/project/tree/main/portfolio/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C">SW 개발 - C,C++,JAVA,MIPS_ASM</a>
 2. 3D 프린팅 대행
 
 ### 2018_12 ~ 2020_01 ###
