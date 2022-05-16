@@ -1,7 +1,7 @@
 ---
 title: project Post
 layout: post
-post-image: "/assets/images/SamplePost.png"
+post-image: "/assets/images/project.png"
 description: 2013 ~ 현재 까지의 프로젝트 를 기록합니다.
 
 tags:

@@ -1,7 +1,7 @@
 ---
 title: an award record
 layout: post
-post-image: "/assets/images/SamplePost.png"
+post-image: "/assets/images/award.png"
 description: 그동안의 수상 기록을 정리 합니다.
 tags:
 - award
