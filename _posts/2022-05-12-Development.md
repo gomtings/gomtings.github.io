@@ -1,5 +1,5 @@
 ---
-title: project Post
+title: Development
 layout: post
 post-image: "/assets/images/project.png"
 description: 2013 ~ 현재 까지의 프로젝트 를 기록합니다.
