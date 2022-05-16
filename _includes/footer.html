@@ -31,8 +31,7 @@
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
-                     <!--<a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a> -->
-                     <a href="./Career-page.md">{{sitepage.title}}</a>
+                     <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
                 </li>
                 {% endunless %}
                 {% endfor %}
