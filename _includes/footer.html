@@ -29,15 +29,15 @@
                 <h3>More Links</h3>
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
-                <li>https://gomtings.github.io/project-page
+                <li>
                     <!-- <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>-->
                     <a href="https://gomtings.github.io/Career-page">Career</a>
                 </li>
                 {% endunless %}
                 {% endfor %}
                 <li>
-                    <a href="https://gomtings.github.io/Career-page">Career</a>
                     <!--<a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>-->
+                    <a href="https://gomtings.github.io/project-page">Project</a>
                 </li>
             </div>
 
