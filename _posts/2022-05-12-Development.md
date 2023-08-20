@@ -178,6 +178,16 @@ tags:
   자동으로 명령어를 작성해 주는 메크로 프로그램
 <a href="https://github.com/gomtings/project/tree/main/portfolio/win32%20api/AG(Auto_Git)">AG(Auto_Git) 다운로드</a>
 
-* WRO INDIA 경기 진행 영상
-<iframe width="560" height="315" src="https://youtu.be/ALlQ9uNuFfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</pre>
+
+**18. 서빙 로봇 프로젝트**
+<pre>
+* 전인고등학교 교내 프로젝트로 동아리 학생들과 함께 개발을 진행 합니다.
+  현재 아이디어 구체화 및 기능 및 디자인 선정중 입니다.
+
+* 사용 하드웨어
+  아두이노 , 라즈베리파이 등..
+
+<a href="">서빙로봇 프로젝트</a>
+
 </pre>
